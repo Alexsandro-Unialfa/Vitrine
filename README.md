@@ -1,2 +1,3 @@
-# Vitrine
-Projeto inicial aprendendo a utilizar PHP - Professor Alex Morgado
+# Projeto inicial PHP - Professor Alex Morgado
+## Alexsandro Sampaio de Oliveira
+### Aprendendo php
